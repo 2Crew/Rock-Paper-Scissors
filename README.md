@@ -2,4 +2,4 @@
 
 Select rock, paper, or scissors against a computer that randomly generates its choice.
 
-### Open it on website
+## [Click to run RPS Website](https://boring-haibt-335050.netlify.com/)
